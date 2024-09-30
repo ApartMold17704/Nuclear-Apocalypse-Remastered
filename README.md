@@ -12,4 +12,4 @@
 <p>虽然它的名字是&ldquo;Nuclear Apocalypse Remastered&rdquo;，但它并不是重制版。这是一个关于后核世界末日和辐射僵尸主题的整合包（其灵感来自：《半条命》、《辐射 4》、《SCP：CB》）。</p>
 <hr />
 <p>20XX 年，几个超级大国发动了核战争。一些幸存者躲在地下避难所中并幸存下来。到 2077 年，该地表几乎适合人类生存。一些幸存者走出避难所，开始了冒险。他们发现，地表一些受核辐射影响的地方已经出现了僵尸。（如您所知，僵尸群非常可怕，但我们可以使用枪支来对付他们。幸存者在这个野蛮的世界中生存。</p>
-<p><img src="file:///C:/Users/ASUS/Desktop/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/abe888b1-459d-45e6-b027-2d53eb1c9511.png" alt="" /><img src="https://pic.imgdb.cn/item/66f96e19f21886ccc0e7b285.png" alt="" width="1685" height="885" /></p>
+<p><img src="https://pic.imgdb.cn/item/66f96e19f21886ccc0e7b285.png" alt="" /><img src="https://pic.imgdb.cn/item/66f96e19f21886ccc0e7b285.png" alt="" width="842" height="442" /></p>
